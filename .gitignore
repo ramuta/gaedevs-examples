@@ -1,6 +1,7 @@
 # PyCharm
 .idea
 jinja-basic-gae-project
+libs
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

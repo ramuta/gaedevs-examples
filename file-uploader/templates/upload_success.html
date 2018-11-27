@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h3>Success!</h3>
+
+<p>Your file has been successfully uploaded.</p>
+
+<p>See it here: <a href="{{url}}">{{url}}</a></p>
+
+<img width="300px" src="{{url}}">
+{% endblock content %}
