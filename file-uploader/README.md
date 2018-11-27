@@ -1,6 +1,6 @@
 # About
 
-A File Uploader example for GAEdevs.com.
+A File Uploader example for GAEdevs.com. Read the tutorial [here](https://gaedevs.com/blog/implement-google-cloud-storage-in-your-gae-python-web-app?utm_source=github&utm_medium=ramuta&utm_content=cloud-storage-27-nov-2018).
 
 # Usage
 
